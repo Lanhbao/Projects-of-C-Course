@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SearchStringInFile</name>
+    </assembly>
+    <members>
+        <member name="T:SearchStringInFile.Program">
+            <summary>
+            The application search string in file.
+            </summary>
+            <remarks>
+            This class can check for the existence of the file.
+            </remarks>
+        </member>
+    </members>
+</doc>

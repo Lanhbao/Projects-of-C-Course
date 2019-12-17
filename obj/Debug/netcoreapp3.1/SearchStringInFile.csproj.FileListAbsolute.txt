@@ -1,0 +1,12 @@
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.exe
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.deps.json
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.runtimeconfig.json
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.runtimeconfig.dev.json
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.dll
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.pdb
+D:\Workspace\SearchStringInFile\SearchStringInFile\bin\Debug\netcoreapp3.1\SearchStringInFile.xml
+D:\Workspace\SearchStringInFile\SearchStringInFile\obj\Debug\netcoreapp3.1\SearchStringInFile.csprojAssemblyReference.cache
+D:\Workspace\SearchStringInFile\SearchStringInFile\obj\Debug\netcoreapp3.1\SearchStringInFile.AssemblyInfoInputs.cache
+D:\Workspace\SearchStringInFile\SearchStringInFile\obj\Debug\netcoreapp3.1\SearchStringInFile.AssemblyInfo.cs
+D:\Workspace\SearchStringInFile\SearchStringInFile\obj\Debug\netcoreapp3.1\SearchStringInFile.dll
+D:\Workspace\SearchStringInFile\SearchStringInFile\obj\Debug\netcoreapp3.1\SearchStringInFile.pdb
