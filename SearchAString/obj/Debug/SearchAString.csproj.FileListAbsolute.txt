@@ -1,0 +1,9 @@
+C:\Users\vietn\source\repos\SearchAString\bin\Debug\SearchAString.exe.config
+C:\Users\vietn\source\repos\SearchAString\bin\Debug\SearchAString.exe
+C:\Users\vietn\source\repos\SearchAString\bin\Debug\SearchAString.pdb
+C:\Users\vietn\source\repos\SearchAString\obj\Debug\SearchAString.csprojAssemblyReference.cache
+C:\Users\vietn\source\repos\SearchAString\obj\Debug\SearchAString.Properties.Resources.resources
+C:\Users\vietn\source\repos\SearchAString\obj\Debug\SearchAString.csproj.GenerateResource.cache
+C:\Users\vietn\source\repos\SearchAString\obj\Debug\SearchAString.exe
+C:\Users\vietn\source\repos\SearchAString\obj\Debug\SearchAString.pdb
+C:\Users\vietn\source\repos\SearchAString\obj\Debug\SearchAString.FormSearchAString.resources
